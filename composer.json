@@ -1,0 +1,16 @@
+{
+    "name": "app/demo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\Demo\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Parasmo Marco",
+            "email": "parasmomarco@hotmail.com"
+        }
+    ],
+    "require": {}
+}
